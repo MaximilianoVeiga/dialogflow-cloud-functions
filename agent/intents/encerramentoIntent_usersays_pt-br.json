@@ -1,0 +1,59 @@
+[
+  {
+    "id": "26d3bf73-b72a-4905-baf6-0da1f70a8c27",
+    "data": [
+      {
+        "text": "hasta ",
+        "userDefined": false
+      },
+      {
+        "text": "la vista",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0b91e6a4-2dff-4dd0-89ef-4b6c4adc8f89",
+    "data": [
+      {
+        "text": "até mais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c5ab76b-bb58-4866-8d94-d72ee61a1c42",
+    "data": [
+      {
+        "text": "adeus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1e036de0-f9f3-4bc4-bee4-63aaeaffabcd",
+    "data": [
+      {
+        "text": "tchau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

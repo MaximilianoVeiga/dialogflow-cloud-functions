@@ -1,0 +1,14 @@
+{
+  "id": "49e7b30e-6cc3-4e91-afca-a31cf0c26bba",
+  "name": "aboutIntent",
+  "auto": true,
+  "contexts": [],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

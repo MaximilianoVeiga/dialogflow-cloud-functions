@@ -1,0 +1,139 @@
+[
+  {
+    "id": "5e4cd24b-d21e-41c8-b77a-bc48c9fe0c9b",
+    "data": [
+      {
+        "text": "imagens",
+        "meta": "@imgEntity",
+        "alias": "imgEntity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e22c07f4-54c7-46d5-b1ff-1591df7cf6ef",
+    "data": [
+      {
+        "text": "mostra ",
+        "userDefined": false
+      },
+      {
+        "text": "foto",
+        "meta": "@imgEntity",
+        "alias": "imgEntity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f6e3aca9-5af8-4a0b-9be4-babbf61073bd",
+    "data": [
+      {
+        "text": "quero ver ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "imagem",
+        "meta": "@imgEntity",
+        "alias": "imgEntity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "194c7b8c-1e2e-4907-b35c-2cfd85f45862",
+    "data": [
+      {
+        "text": "mostre-me ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "imagem",
+        "meta": "@imgEntity",
+        "alias": "imgEntity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "73e2211a-93fe-4cc5-8e8f-a995d5afb7c1",
+    "data": [
+      {
+        "text": "recurso de ",
+        "userDefined": false
+      },
+      {
+        "text": "imagem",
+        "meta": "@imgEntity",
+        "alias": "imgEntity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2dbf9a3-8dcc-4344-abcc-1705651089db",
+    "data": [
+      {
+        "text": "me mostre ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "imagem",
+        "meta": "@imgEntity",
+        "alias": "imgEntity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

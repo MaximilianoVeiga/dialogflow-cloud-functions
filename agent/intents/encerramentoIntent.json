@@ -1,0 +1,15 @@
+{
+  "id": "c9787487-dea3-4792-8748-eb65ab85c111",
+  "name": "encerramentoIntent",
+  "auto": true,
+  "contexts": [],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

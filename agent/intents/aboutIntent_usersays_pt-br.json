@@ -1,0 +1,94 @@
+[
+  {
+    "id": "223960f9-5a9a-4d53-81dc-e20015d0d484",
+    "data": [
+      {
+        "text": "sobre o bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eaa21c6c-5c15-48a2-b843-89590ba9350c",
+    "data": [
+      {
+        "text": "fale",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " como você funciona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aaf30719-a413-4efc-9137-f4efbe9cfd30",
+    "data": [
+      {
+        "text": "o que você sabe ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "275452ed-c9cd-4ade-8984-0f5a090cd6ca",
+    "data": [
+      {
+        "text": "como você funciona ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dba73c13-51e5-4e5a-956f-b9ae5d87707e",
+    "data": [
+      {
+        "text": "qual seu ",
+        "userDefined": false
+      },
+      {
+        "text": "propósito",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "84a384d0-9d3b-428d-8f12-d8315fadbf5a",
+    "data": [
+      {
+        "text": "o que você faz ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

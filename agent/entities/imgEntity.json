@@ -1,0 +1,9 @@
+{
+  "id": "bd51db34-7a4b-4e47-923b-3467627acb95",
+  "name": "imgEntity",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
