@@ -10,7 +10,7 @@ let welcomeIntents = {
     'aboutIntent': (agent) => {
         setResponse(agent, findArray(welcomeResponses, 'aboutIntent'));
         
-        setCard(agent, "Compasso Day", "Assista o vídeo sobre a Horizon", "Abrir Youtube", "https://www.youtube.com/watch?v=LXb3EKWsInQ");
+        setCard(agent, "Horizon", "Assista o vídeo sobre a Horizon", "Abrir Youtube", "https://www.youtube.com/watch?v=LXb3EKWsInQ");
     },
     'imageIntent': (agent) => {
         setResponse(agent, findArray(welcomeResponses, 'imageIntent'));
