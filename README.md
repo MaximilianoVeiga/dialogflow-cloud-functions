@@ -10,35 +10,27 @@ Esse projeto é feito com npm ou yarn, Node.JS e Firebase CLI.
 
 * **Firebase CLI** É um pacote que permite emular e hospedar as cloud functions no firebase.  [Baixar Firebase CLI](https://firebase.google.com/docs/cli)
 
-## Setting up Databases and Services
+## Como instalar
 
-The project uses [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com) and [Redis](https://redis.io).
-
-I recommend use [Docker](https://www.docker.com) to install and run the databases and services above.
-
-## How to Install
-
-### Backend (API)
-
-* To download the project follow the instructions bellow:
+* Siga as instruções para instalar o projeto corretamente.
 
 ```
 1. git clone https://github.com/MaximilianoVeiga/dialogflow-cloud-functions.git
-2. cd meetapp-api
+2. cd dialogflow-cloud-functions
 ```
 
 * Instalar as dependências e rodar o servidor:
 
 ```
 3. yarn install
-4. yarn dev
+4. yarn serve
 ```
 
 ou
 
 ```
 3. npm install
-4. npm dev
+4. npm run serve
 ```
 
 É isso! =)
