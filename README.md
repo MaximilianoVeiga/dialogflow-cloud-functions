@@ -2,7 +2,7 @@
 
 > This project is a simple example of how to use multiplatform Dialogflow with Cloud Functions.
 
-## Começando com o Projeto
+## Getting started with the Project
 
 This project is done with npm, Node.JS and Firebase CLI.
 
