@@ -2,6 +2,10 @@
 
 > This project is a simple example of how to use multiplatform Dialogflow with Cloud Functions.
 
+## Description
+
+This is a project that allows you to simulate rich responses for voicebots like Google Assistant and chatbots like Telegram, Messenger.
+
 ## Getting started with the Project
 
 This project is done with npm, Node.JS and Firebase CLI.
