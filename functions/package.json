@@ -15,7 +15,7 @@
   "dependencies": {
     "actions-on-google": "^2.2.0",
     "dialogflow": "^0.6.0",
-    "dialogflow-fulfillment-helper": "^0.6.8",
+    "dialogflow-fulfillment-helper": "^0.6.13",
     "firebase-admin": "^9.2.0",
     "firebase-functions": "^3.11.0"
   },
